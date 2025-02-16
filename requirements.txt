@@ -32,3 +32,5 @@ matplotlib
 requests
 python-dotenv
 pandas
+flask
+flask-cors
